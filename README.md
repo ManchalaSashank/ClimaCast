@@ -1,4 +1,5 @@
-# ☀️ ClimaCast
+<h1 align="center">☀️ ClimaCast - A Real Time Weather Forecast Application</h1>
+<p align="center"></p>
 
 **ClimaCast** is a modern, desktop-optimized weather application that delivers accurate real-time weather data and 5-day forecasts using the OpenWeatherMap API. Built with scalability and clean design in mind, this app integrates geolocation support, animated UI transitions, responsive components, and a gradient background that adapts to the current weather type. Designed with a developer-first mindset, it is a polished and complete project.
 
@@ -9,11 +10,17 @@
 ClimaCast is a fully functional weather forecasting web application that allows users to:
 
 - Search for any city and view real-time weather conditions.
+  
 - Get temperature, weather descriptions, feels-like temperature, humidity, and wind speed.
+  
 - Use their device's geolocation to instantly fetch local weather.
+  
 - See a 5-day forecast in a horizontal scroll layout.
+  
 - Enjoy subtle and responsive animations for better user experience.
+  
 - Experience automatic UI changes with background gradients based on weather types.
+  
 
 From its clean UI to robust error handling, ClimaCast is built to reflect both practical functionality and visual appeal. This project demonstrates proficiency in frontend engineering, API integration, modern styling techniques, and state management.
 
@@ -22,11 +29,23 @@ From its clean UI to robust error handling, ClimaCast is built to reflect both p
 ## 🔑 Key Features
 
 - 🔍 **Search by City:** Users can type a city name to view its current weather and forecast.
+
+
 - 📍 **Use My Location:** Uses browser geolocation API to fetch weather for the user’s current location.
+
+  
 - 📅 **5-Day Forecast:** Horizontal row with weather conditions at 12:00 PM each day.
+
+  
 - 🌈 **Dynamic Backgrounds:** Weather-based gradient backgrounds (Clear, Clouds, Rain, Thunderstorm, Snow, Fog, etc).
+
+  
 - 🔄 **Loading State:** Animated loader (spinner) shown while fetching data.
+
+  
 - ⚡ **Framer Motion Animations:** Smooth transitions on weather card render.
+
+  
 
 ---
 
